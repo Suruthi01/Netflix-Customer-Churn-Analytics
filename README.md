@@ -330,10 +330,9 @@ Aspiring Data Analyst
 - Machine Learning
 - Data Analytics
 
-**GitHub:** Add your GitHub profile link here.
+**GitHub:** https://github.com/Suruthi01
 
-**LinkedIn:** Add your LinkedIn profile link here.
-
+**LinkedIn:** www.linkedin.com/in/suruthi-ravichandran-a2316b251
 ---
 
 ## Disclaimer
