@@ -309,3 +309,9 @@ This project uses synthetic Netflix-style customer data for educational and port
 This project is not affiliated with or endorsed by Netflix. The analysis and machine learning results do not represent actual Netflix customers or business performance.
 
 ---
+
+## Project Status
+
+**Status:** Portfolio Project – In Progress
+
+The project includes data analysis, SQL queries, machine learning experiments, and interactive Power BI dashboards. Further validation and documentation improvements are ongoing.
