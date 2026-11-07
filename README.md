@@ -247,6 +247,15 @@ The project aims to identify important customer churn patterns and support data-
 5. **Customer Experience:** Use engagement patterns to identify opportunities to improve customer satisfaction.
 
 *Note: Final business insights and recommendations should be confirmed using the completed analysis results.*
+### Dashboard Preview
+
+#### Customer Churn & Revenue Overview
+
+![Netflix Customer Churn Dashboard](Images/churn_overview.png)
+
+#### Churn Prediction & ML Insights
+
+![Churn Prediction and ML Insights Dashboard](Images/churn_prediction.png)
 
 
 
@@ -274,48 +283,6 @@ Netflix_customer/
 ├── .gitignore
 └── README.md
 ```
-
-## Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Netflix_customer
-```
-
-### 2. Install Required Libraries
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn sqlalchemy pymysql python-dotenv jupyter
-```
-
-### 3. Configure Database Connection
-
-Create a `.env` file in the project root using `.env.example` as a reference.
-
-Add your MySQL credentials:
-
-```env
-MYSQL_USER=your_username
-MYSQL_PASSWORD=your_password
-MYSQL_HOST=localhost
-MYSQL_PORT=3306
-MYSQL_DATABASE=netflix_churn
-```
-
-### 4. Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-`notebooks/01_validate.ipynb`
-
-Run the notebook cells to execute the analysis.
-
 ## Author
 
 **Suruthi Ravichandran**
@@ -332,7 +299,7 @@ Aspiring Data Analyst
 
 **GitHub:** https://github.com/Suruthi01
 
-**LinkedIn:** www.linkedin.com/in/suruthi-ravichandran-a2316b251
+**LinkedIn:** https://www.linkedin.com/in/suruthi-ravichandran-a2316b251/
 ---
 
 ## Disclaimer
@@ -342,9 +309,3 @@ This project uses synthetic Netflix-style customer data for educational and port
 This project is not affiliated with or endorsed by Netflix. The analysis and machine learning results do not represent actual Netflix customers or business performance.
 
 ---
-
-## Project Status
-
-**Status:** Portfolio Project – In Progress
-
-The project includes data analysis, SQL queries, machine learning experiments, and interactive Power BI dashboards. Further validation and documentation improvements are ongoing.
